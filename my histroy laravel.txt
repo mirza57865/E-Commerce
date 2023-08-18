@@ -1,0 +1,81 @@
+    1  apt update -y
+    2  sudo apt update
+    3  apt install php
+    4  sudo apt install php
+    5  sudo apt install php-fpm php-curl php-bcmath php-mysql  php-xml php-zip
+    6  php-gd php-intl php-pdo
+    7  sudo php-gd php-intl php-pdo
+    8  php -version
+    9  sudo apt install php8.1-xml
+   10  apt install php-gd
+   11  sudo apt install php-gd
+   12  sudo apt install php-int1
+   13  sudo apt install apache2
+   14  sudo apt install mysql-server
+   15  sudo mysql
+   16  cd /var/www/html/
+   17  ls
+   18  rm index.html
+   19  ls
+   20  rm -rf index.html
+   21  git clone https://github.com/mirza57865/E-Commerce.git
+   22  sudo git clone https://github.com/mirza57865/E-Commerce.git
+   23  ll
+   24  mysql -u root -p
+   25  cd /var/www/html/E-Commerce/database/database/
+   26  mysql -u root -p ecommerce_marolix < ecommerce_marolix.sql
+   27  cd /var/www/html/E-Commerce/E-commerce-7June
+   28  mv .env.example .env
+   29  ll
+   30  mv .env.example 
+   31  sudo mv .env.example .env
+   32  vi .env
+   33  nano .env
+   34  vi .env
+   35  ll
+   36  vi .env
+   37  nano .env
+   38  vi .env
+   39  cd ../../
+   40  ll
+   41  rm -rf E-Commerce/
+   42  sudo rm -rf E-Commerce/
+   43  ls -al
+   44  sudo rm -rf index.html 
+   45  ll
+   46  sudo git clone https://github.com/mirza57865/E-Commerce.git
+   47  clear
+   48  cd /var/www/html/E-Commerce/E-commerce-7June
+   49  sudo mv .env.example .env
+   50  sudo vi .env
+   51  cd ~
+   52  php composer-setup.php
+   53  php composer.phar
+   54  sudo mv composer.phar /usr/local/bin/composer
+   55  composer
+   56  sudo chown -R www-data:www-data /var/www/html/E-Commerce
+   57  sudo chmod -R 775 /var/www/html/E-Commerce/
+   58  cd /var/www/html/E-Commerce/E-commerce-7June/
+   59  cd
+   60  sudo apt install php-int1
+   61  php --ini
+   62  sudo 
+   63  sudo apt install php-int1
+   64  sudo apt install php-ini
+   65  sudo apt-get install php-intl
+   66  cd /var/www/html/E-Commerce/E-commerce-7June/
+   67  composer update
+   68  composer install
+   69  sudo chmod -R 775 /var/www/html/E-Commerce/
+   70  composer update
+   71  composer install
+   72  php artisan key:generate
+   73  composer update
+   74  sudo composer update
+   75  sudo composer istall
+   76  sudo composer install
+   77  sudo apt update
+   78  sudo  php artisan key:generate
+   79  sudo php artisan migrate
+   80  sudo service apache2 restart
+   81  history
